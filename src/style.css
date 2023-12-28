@@ -1,0 +1,11 @@
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.38);
+    height: fit-content;
+}
